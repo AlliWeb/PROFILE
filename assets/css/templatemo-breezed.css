@@ -1003,6 +1003,10 @@ about
   padding-bottom: 80px;
 }
 
+#about .container img {
+  max-width: 100%;
+}
+
 #about .section-heading {
   margin-bottom: 10px;
 }
