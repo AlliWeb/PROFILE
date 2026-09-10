@@ -416,7 +416,7 @@ header
   line-height: 40px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
   .header-area .main-nav .nav .search-icon {
     float: none;
     text-align: center;
